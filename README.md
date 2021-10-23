@@ -1,6 +1,9 @@
 # leitor-certificado-digital
 Leitor de Certificado Digital (Arquivos no formato .pfx)
 
+![image](https://user-images.githubusercontent.com/44420212/138562896-70312e28-fe83-4e58-a753-b16da12d4ac1.png)
+
+
 - Foi feito um formulário simples com dois campos.
 - Em um dos campos você insere a senha do certificado e no outro você insere o seu Certificado Digital no formato .pfx
 - O envio do form é feito via POST e utilizamos JavaScript(jQuery) com AJAX para envio do form para o arquivo PHP. 
