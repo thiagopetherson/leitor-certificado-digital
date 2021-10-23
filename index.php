@@ -1,20 +1,20 @@
 <html>
 <head>
-    <title>Vision - Certificado Digital</title>
+    <title>Leitor Certificado Digital</title>
     <link rel="stylesheet" href="_bootstrap/bootstrap.min.css">  
 </head>
-<body>
+<body style="background-color: rgba(220,220,220, 0.3)">
 
 
 <div class="container">
  
 	<div class="row" style="margin-top:10%">
 	
-		<div class="col-lg-4 offset-lg-4 mt-3">
-			  <h3>Certificado Digital</h3>
+		<div class="col-lg-6 offset-lg-3 mt-3">
+			  <h3>Leitor de Certificado Digital</h3>
 		</div>
 		
-		<div class="col-lg-4 offset-lg-4">
+		<div class="col-lg-6 offset-lg-3">
 		
 			<form id="formulario-certificado-digital" enctype="multipart/form-data">  
 					
@@ -32,7 +32,7 @@
 						
 					<div class="pt-3 pb-3 text-right">
 						<button class="btn btn-primary btn-sm" type="submit">
-							Salvar Alterações
+							Ler Certificado
 						</button> 
 					</div>
 			 </form> 
